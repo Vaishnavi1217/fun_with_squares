@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+#nav{
+    background-color: cornflowerblue;
+    height: 6rem;
+}
+li{
+    text-decoration: none;
+    display: inline;
+}
+.nav-items{
+    float: right;
+    padding: 1rem;
+    cursor: pointer;
+    font-size: larger;
+}
+#button{
+    background-color: cornflowerblue;
+    width: 8rem;
+    height: 3rem;
+    color: white;
+    margin: 2rem;
+    font-size: larger;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#output-div{
+    padding: 2rem;
+    font-size: larger;
+    height: 2rem;
+    color: cornflowerblue;
+}
+h2{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p{
+    font-size: larger;
+}
+input{
+    font-size: large;
+    cursor: pointer;
+}
